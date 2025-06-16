@@ -47,6 +47,10 @@ For development, you might want to mount your local directory to see changes in 
 docker run -p 8000:8000 -v $(pwd):/app api_jap
 ```
 
+For testing login functionality, you can use the following credentials:
+- Username: admin & Password: admin
+- Username: applicant & Password: applicant
+
 ### Environment Variables
 
 The project uses environment variables for configuration. Create a `.env` file in the root directory with the following variables:
