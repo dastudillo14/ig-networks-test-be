@@ -28,11 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 
 CORS_ALLOWED_ORIGINS = [
-      "http://localhost:4200",
-      "http://192.168.1.8:4200",
-
-      "https://tu-dominio-de-produccion.com",
-  ]
+      "http://localhost:4200"
+]
 CORS_ALLOW_CREDENTIALS = True  
 CORS_ALLOW_ALL_ORIGINS = True
 
