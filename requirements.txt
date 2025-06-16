@@ -1,0 +1,13 @@
+asgiref              == 3.8.1
+Django               == 5.2.3
+django-cors-headers  == 4.7.0
+django-filter        == 25.1
+django-restframework == 0.0.1
+djangorestframework  == 3.16.0
+gunicorn             == 23.0.0
+packaging            == 25.0
+pillow               == 11.2.1
+pip                  == 25.1.1
+python-dotenv        == 1.1.0
+setuptools           == 80.7.1
+sqlparse             == 0.5.3
